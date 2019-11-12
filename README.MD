@@ -33,6 +33,8 @@ On Ubuntu (and variants): `sudo apt install libgtk-3-dev libcurl4-gnutls-dev lib
 
 On Arch: `sudo pacman -S gtk3 glibc gnutls yajl`
 
+On openSUSE: `sudo zypper install gtk3-devel gcc-c++ gnutls libcurl-devel libyajl-devel-static`
+
 To run it, launch ./bin/launch.sh
 
 Once again, all contributions are VERY welcome, even though this code is already aging and very badly written.
